@@ -1,0 +1,25 @@
+.logo {
+  display: flex;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 6px;
+  height: 40px;
+  width: 240px;
+  align-items: center;
+  justify-content: center;
+  
+ 
+
+  h1 {
+    color: rgb(252, 252, 252);
+    letter-spacing: 1px;
+  }
+
+  img {
+    height: 34px;
+    width: 34px;
+    margin-right: 10px;
+  }
+}
